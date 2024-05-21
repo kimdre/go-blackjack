@@ -1,3 +1,3 @@
-module github.com/kimdre/blackjack
+module github.com/kimdre/go-blackjack
 
 go 1.22.3

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/kimdre/blackjack/blackjack"
-	"github.com/kimdre/blackjack/utils"
+	"github.com/kimdre/go-blackjack/blackjack"
+	"github.com/kimdre/go-blackjack/utils"
 )
 
 func main() {
