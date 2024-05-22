@@ -91,7 +91,6 @@ func main() {
 
 			if roundEnd {
 				if len(game.Rounds)+1 >= int(game.Rules.TotalRounds) {
-					utils.ClearTerminal()
 					fmt.Println("You finished the game")
 					fmt.Printf("Wins: %v, Losses: %v\nTotal Rounds: %v\n", game.Wins, game.Losses, len(game.Rounds)+1)
 					return
